@@ -38,7 +38,7 @@ const handleSelect = () => {
 <style scoped>
 .header {
   height: 4rem;
-  background-color: #00a2dc;
+  background-color: #0085b4;
   line-height: 4rem;
   font-size: 2rem;
   color: #fff;
